@@ -16,7 +16,7 @@
 ### :man_technologist: About Me:
 - I'm learning programming at "School_21" from May 2022 to present.
 ---
-### Contact me:
+### :memo: Contact Me:
 <div>
   <a href="mailto:erokhin_vp@mail.ru">
     <img src="https://img.shields.io/badge/mail.ru-blue?logo=mail.ru&color=blue"/>
