@@ -1,5 +1,3 @@
-### :man_technologist: About Me :
-
 <!--
 - :mailbox: How to reach me:
 - https://img.shields.io/badge/Telegramm-blue
@@ -12,6 +10,23 @@
 
 ### Hi there 👋
 -->
+
+<div align=center><H1>Hi there 👋</H1></div>
+
+### :man_technologist: About Me:
+- I'm learning programming at "School_21" from May 2022 to present.
+---
+### Contact me:
+<div>
+  <a href="mailto:erokhin_vp@mail.ru">
+    <img src="https://img.shields.io/badge/mail.ru-blue?logo=mail.ru&color=blue"/>
+  </a>
+  <a href="https://t.me/Bestanalystic">
+    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&color=blue"/>
+  </a>
+</div>
+
+---
 
 
 
