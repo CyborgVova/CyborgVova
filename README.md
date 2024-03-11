@@ -16,7 +16,7 @@
 ### :man_technologist: About Me:
 - I'm learning programming at "School_21" from May 2022 to present.
 - Go is my favorite programming language, but also C++ yet
-- I like Unix-system and PostgresQL database
+- I like Unix-system and PostgreSQL database
 - In my free time i study language documentation
 - I want to develop microservices in a strong development team
 ---
